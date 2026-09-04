@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# Running pipeline log — grows every run, not meaningful in version control
+logs/
+
+# Bulk raw pulls and intermediate cleaning artifacts — large (multi-MB),
+# duplicated across dates, and fully regenerable by running data_pull.py
+# then clean.py. The smaller, signal-relevant raw caches (award detail /
+# transaction API responses for the 190 flagged contracts) ARE tracked —
+# see data/raw/award_details_raw_*.json and award_transactions_raw_*.json.
+data/raw/raw_pull_*.json
+data/processed/cleaned_records_*.json
+data/processed/cleaning_log_*.json
+
+# Editor-specific
+.vscode/
+data/processed/cleaning_log.json

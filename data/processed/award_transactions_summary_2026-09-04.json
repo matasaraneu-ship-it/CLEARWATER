@@ -1,0 +1,1522 @@
+[
+  {
+    "generated_internal_id": "CONT_AWD_FA238123FB005_9700_FA873020D0045_9700",
+    "n_transactions": 3,
+    "base_obligation": 1920858.66,
+    "total_obligation": 1920858.66,
+    "modification_amount": 0.0,
+    "modification_ratio": 1.0
+  },
+  {
+    "generated_internal_id": "CONT_AWD_FA862122F0007_9700_FA862120D0013_9700",
+    "n_transactions": 2,
+    "base_obligation": 1237180.3,
+    "total_obligation": 1237180.3,
+    "modification_amount": 0.0,
+    "modification_ratio": 1.0
+  },
+  {
+    "generated_internal_id": "CONT_AWD_FA872622FB009_9700_NNG15SC31B_8000",
+    "n_transactions": 5,
+    "base_obligation": 2525733.84,
+    "total_obligation": 2969167.32,
+    "modification_amount": 443433.48,
+    "modification_ratio": 1.175566195050861
+  },
+  {
+    "generated_internal_id": "CONT_AWD_FA872623FB060_9700_47QTCA21A000X_4732",
+    "n_transactions": 4,
+    "base_obligation": 980553.24,
+    "total_obligation": 980553.24,
+    "modification_amount": 0.0,
+    "modification_ratio": 1.0
+  },
+  {
+    "generated_internal_id": "CONT_AWD_H9224124C0001_9700_-NONE-_-NONE-",
+    "n_transactions": 2,
+    "base_obligation": 4100000.0,
+    "total_obligation": 4100000.0,
+    "modification_amount": 0.0,
+    "modification_ratio": 1.0
+  },
+  {
+    "generated_internal_id": "CONT_AWD_H9240124F0081_9700_H9240121D0004_9700",
+    "n_transactions": 1,
+    "base_obligation": 1492590.81,
+    "total_obligation": 1492590.81,
+    "modification_amount": 0.0,
+    "modification_ratio": 1.0
+  },
+  {
+    "generated_internal_id": "CONT_AWD_H9240224F0027_9700_H9240222D0004_9700",
+    "n_transactions": 1,
+    "base_obligation": 2805967.0,
+    "total_obligation": 2805967.0,
+    "modification_amount": 0.0,
+    "modification_ratio": 1.0
+  },
+  {
+    "generated_internal_id": "CONT_AWD_H9240224F0038_9700_H9240222D0004_9700",
+    "n_transactions": 2,
+    "base_obligation": 1523190.0,
+    "total_obligation": 1523190.0,
+    "modification_amount": 0.0,
+    "modification_ratio": 1.0
+  },
+  {
+    "generated_internal_id": "CONT_AWD_H9241524C0002_9700_-NONE-_-NONE-",
+    "n_transactions": 6,
+    "base_obligation": 2000000.0,
+    "total_obligation": 3166522.2,
+    "modification_amount": 1166522.2000000002,
+    "modification_ratio": 1.5832611
+  },
+  {
+    "generated_internal_id": "CONT_AWD_H9241524C0004_9700_-NONE-_-NONE-",
+    "n_transactions": 6,
+    "base_obligation": 977060.0,
+    "total_obligation": 3019344.0,
+    "modification_amount": 2042284.0,
+    "modification_ratio": 3.090233967207746
+  },
+  {
+    "generated_internal_id": "CONT_AWD_H9241524C0005_9700_-NONE-_-NONE-",
+    "n_transactions": 5,
+    "base_obligation": 494724.0,
+    "total_obligation": 1531108.0,
+    "modification_amount": 1036384.0,
+    "modification_ratio": 3.094873100961344
+  },
+  {
+    "generated_internal_id": "CONT_AWD_H9241524C0006_9700_-NONE-_-NONE-",
+    "n_transactions": 19,
+    "base_obligation": 7873114.54,
+    "total_obligation": 21690913.64,
+    "modification_amount": 13817799.100000001,
+    "modification_ratio": 2.755061358474787
+  },
+  {
+    "generated_internal_id": "CONT_AWD_H9241524C0007_9700_-NONE-_-NONE-",
+    "n_transactions": 3,
+    "base_obligation": 746981.0,
+    "total_obligation": 1949561.0,
+    "modification_amount": 1202580.0,
+    "modification_ratio": 2.60992046651789
+  },
+  {
+    "generated_internal_id": "CONT_AWD_H9241524C0009_9700_-NONE-_-NONE-",
+    "n_transactions": 12,
+    "base_obligation": 4895551.84,
+    "total_obligation": 9888765.11,
+    "modification_amount": 4993213.27,
+    "modification_ratio": 2.0199490135518614
+  },
+  {
+    "generated_internal_id": "CONT_AWD_H9241524F0025_9700_H9240421D0001_9700",
+    "n_transactions": 1,
+    "base_obligation": 1578609.73,
+    "total_obligation": 1578609.73,
+    "modification_amount": 0.0,
+    "modification_ratio": 1.0
+  },
+  {
+    "generated_internal_id": "CONT_AWD_H9241524F0028_9700_47QTCA20D00DM_4732",
+    "n_transactions": 11,
+    "base_obligation": 4119701.96,
+    "total_obligation": 23817340.02,
+    "modification_amount": 19697638.06,
+    "modification_ratio": 5.781325991844323
+  },
+  {
+    "generated_internal_id": "CONT_AWD_H9241524F0031_9700_H9241522D0002_9700",
+    "n_transactions": 7,
+    "base_obligation": 2904515.94,
+    "total_obligation": 6802195.54,
+    "modification_amount": 3897679.6,
+    "modification_ratio": 2.3419377550394853
+  },
+  {
+    "generated_internal_id": "CONT_AWD_H9241524F0039_9700_H9240421D0001_9700",
+    "n_transactions": 3,
+    "base_obligation": 875838.26,
+    "total_obligation": 5390777.430000001,
+    "modification_amount": 4514939.170000001,
+    "modification_ratio": 6.154991938808428
+  },
+  {
+    "generated_internal_id": "CONT_AWD_H9241524F0040_9700_H9240421D0001_9700",
+    "n_transactions": 3,
+    "base_obligation": 413099.44,
+    "total_obligation": 2239377.8400000003,
+    "modification_amount": 1826278.4000000004,
+    "modification_ratio": 5.420917152538382
+  },
+  {
+    "generated_internal_id": "CONT_AWD_H9241524F0042_9700_H9240019A0002_9700",
+    "n_transactions": 1,
+    "base_obligation": 878700.0,
+    "total_obligation": 878700.0,
+    "modification_amount": 0.0,
+    "modification_ratio": 1.0
+  },
+  {
+    "generated_internal_id": "CONT_AWD_H9241524F0049_9700_H9240019A0002_9700",
+    "n_transactions": 1,
+    "base_obligation": 9517917.0,
+    "total_obligation": 9517917.0,
+    "modification_amount": 0.0,
+    "modification_ratio": 1.0
+  },
+  {
+    "generated_internal_id": "CONT_AWD_H9241524F0064_9700_H9240019A0002_9700",
+    "n_transactions": 2,
+    "base_obligation": 695440.92,
+    "total_obligation": 1384292.88,
+    "modification_amount": 688851.9599999998,
+    "modification_ratio": 1.990525492805341
+  },
+  {
+    "generated_internal_id": "CONT_AWD_H9241524F0066_9700_H9241522D0001_9700",
+    "n_transactions": 1,
+    "base_obligation": 2499892.0,
+    "total_obligation": 2499892.0,
+    "modification_amount": 0.0,
+    "modification_ratio": 1.0
+  },
+  {
+    "generated_internal_id": "CONT_AWD_H9241524F0069_9700_H9240019A0002_9700",
+    "n_transactions": 6,
+    "base_obligation": 928596.0,
+    "total_obligation": 4644672.0,
+    "modification_amount": 3716076.0,
+    "modification_ratio": 5.001822105630436
+  },
+  {
+    "generated_internal_id": "CONT_AWD_H9241524F0070_9700_H9240019A0002_9700",
+    "n_transactions": 7,
+    "base_obligation": 6958536.0,
+    "total_obligation": 14078281.0,
+    "modification_amount": 7119745.0,
+    "modification_ratio": 2.02316708572033
+  },
+  {
+    "generated_internal_id": "CONT_AWD_H9241524F0071_9700_H9240019A0002_9700",
+    "n_transactions": 4,
+    "base_obligation": 7076743.0,
+    "total_obligation": 16556289.0,
+    "modification_amount": 9479546.0,
+    "modification_ratio": 2.339535150562907
+  },
+  {
+    "generated_internal_id": "CONT_AWD_H9241524F0072_9700_H9240019A0002_9700",
+    "n_transactions": 2,
+    "base_obligation": 622296.0,
+    "total_obligation": 1257036.0,
+    "modification_amount": 634740.0,
+    "modification_ratio": 2.0199969146515486
+  },
+  {
+    "generated_internal_id": "CONT_AWD_H9241524F0073_9700_H9240019A0002_9700",
+    "n_transactions": 4,
+    "base_obligation": 1521000.0,
+    "total_obligation": 4563000.0,
+    "modification_amount": 3042000.0,
+    "modification_ratio": 3.0
+  },
+  {
+    "generated_internal_id": "CONT_AWD_H9241524F0075_9700_NNG15SD00B_8000",
+    "n_transactions": 11,
+    "base_obligation": 7986466.56,
+    "total_obligation": 19032019.59,
+    "modification_amount": 11045553.030000001,
+    "modification_ratio": 2.3830337793338234
+  },
+  {
+    "generated_internal_id": "CONT_AWD_H9241524F0076_9700_H9240019A0002_9700",
+    "n_transactions": 12,
+    "base_obligation": 83791353.0,
+    "total_obligation": 244090446.6,
+    "modification_amount": 160299093.6,
+    "modification_ratio": 2.913074414731076
+  },
+  {
+    "generated_internal_id": "CONT_AWD_H9241524F0099_9700_H9240019A0002_9700",
+    "n_transactions": 2,
+    "base_obligation": 1564420.0,
+    "total_obligation": 3441724.0,
+    "modification_amount": 1877304.0,
+    "modification_ratio": 2.2
+  },
+  {
+    "generated_internal_id": "CONT_AWD_H9241524F0106_9700_H9240019A0002_9700",
+    "n_transactions": 1,
+    "base_obligation": 986500.0,
+    "total_obligation": 986500.0,
+    "modification_amount": 0.0,
+    "modification_ratio": 1.0
+  },
+  {
+    "generated_internal_id": "CONT_AWD_H9241524F0128_9700_H9240019A0002_9700",
+    "n_transactions": 1,
+    "base_obligation": 1939192.0,
+    "total_obligation": 1939192.0,
+    "modification_amount": 0.0,
+    "modification_ratio": 1.0
+  },
+  {
+    "generated_internal_id": "CONT_AWD_H9241524F0134_9700_H9240019A0002_9700",
+    "n_transactions": 2,
+    "base_obligation": 1199520.0,
+    "total_obligation": 1694025.0,
+    "modification_amount": 494505.0,
+    "modification_ratio": 1.412252400960384
+  },
+  {
+    "generated_internal_id": "CONT_AWD_H9241524F0135_9700_H9240019A0002_9700",
+    "n_transactions": 1,
+    "base_obligation": 1014000.0,
+    "total_obligation": 1014000.0,
+    "modification_amount": 0.0,
+    "modification_ratio": 1.0
+  },
+  {
+    "generated_internal_id": "CONT_AWD_H9821022C0013_9700_-NONE-_-NONE-",
+    "n_transactions": 5,
+    "base_obligation": 585254.52,
+    "total_obligation": 2419411.08,
+    "modification_amount": 1834156.56,
+    "modification_ratio": 4.13394685102133
+  },
+  {
+    "generated_internal_id": "CONT_AWD_H9821022F0040_9700_H9821021D0001_9700",
+    "n_transactions": 1,
+    "base_obligation": 2796077.55,
+    "total_obligation": 2796077.55,
+    "modification_amount": 0.0,
+    "modification_ratio": 1.0
+  },
+  {
+    "generated_internal_id": "CONT_AWD_H9821022F0173_9700_75N98120D00012_7529",
+    "n_transactions": 13,
+    "base_obligation": 3528475.94,
+    "total_obligation": 16146518.32,
+    "modification_amount": 12618042.38,
+    "modification_ratio": 4.576060201221041
+  },
+  {
+    "generated_internal_id": "CONT_AWD_H9821022F0181_9700_N6600119A0003_9700",
+    "n_transactions": 5,
+    "base_obligation": 472996.19,
+    "total_obligation": 1418988.57,
+    "modification_amount": 945992.3800000001,
+    "modification_ratio": 3.0
+  },
+  {
+    "generated_internal_id": "CONT_AWD_H9821022F0205_9700_47QTCA20D009H_4732",
+    "n_transactions": 8,
+    "base_obligation": 1112607.13,
+    "total_obligation": 3567119.36,
+    "modification_amount": 2454512.23,
+    "modification_ratio": 3.2060906889927985
+  },
+  {
+    "generated_internal_id": "CONT_AWD_H9821022F0242_9700_75N98120D00175_7529",
+    "n_transactions": 4,
+    "base_obligation": 1377234.15,
+    "total_obligation": 4724603.81,
+    "modification_amount": 3347369.6599999997,
+    "modification_ratio": 3.4305014946078702
+  },
+  {
+    "generated_internal_id": "CONT_AWD_H9821024CE001_9700_-NONE-_-NONE-",
+    "n_transactions": 5,
+    "base_obligation": 3694948.0,
+    "total_obligation": 15249279.690000001,
+    "modification_amount": 11554331.690000001,
+    "modification_ratio": 4.127062056083063
+  },
+  {
+    "generated_internal_id": "CONT_AWD_H9821024CE008_9700_-NONE-_-NONE-",
+    "n_transactions": 9,
+    "base_obligation": 4499730.71,
+    "total_obligation": 6441214.449999999,
+    "modification_amount": 1941483.7399999993,
+    "modification_ratio": 1.4314666510343237
+  },
+  {
+    "generated_internal_id": "CONT_AWD_H9821024F0060_9700_H9821021D0001_9700",
+    "n_transactions": 1,
+    "base_obligation": 2932659.7,
+    "total_obligation": 2932659.7,
+    "modification_amount": 0.0,
+    "modification_ratio": 1.0
+  },
+  {
+    "generated_internal_id": "CONT_AWD_H9821024FE003_9700_47QTCA19D00HL_4732",
+    "n_transactions": 3,
+    "base_obligation": 746622.96,
+    "total_obligation": 2090043.72,
+    "modification_amount": 1343420.76,
+    "modification_ratio": 2.7993295571837225
+  },
+  {
+    "generated_internal_id": "CONT_AWD_H9821024FE007_9700_HC105023D0005_9700",
+    "n_transactions": 6,
+    "base_obligation": 1332327.99,
+    "total_obligation": 3677180.4,
+    "modification_amount": 2344852.41,
+    "modification_ratio": 2.759966335316576
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HB000123C1001_9700_-NONE-_-NONE-",
+    "n_transactions": 19,
+    "base_obligation": 5799873.21,
+    "total_obligation": 27842787.74,
+    "modification_amount": 22042914.529999997,
+    "modification_ratio": 4.800585587283899
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HB000123C1007_9700_-NONE-_-NONE-",
+    "n_transactions": 10,
+    "base_obligation": 851554.0,
+    "total_obligation": 2311350.0,
+    "modification_amount": 1459796.0,
+    "modification_ratio": 2.714272964486104
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HB000123F1013_9700_47QTCK18D0052_4732",
+    "n_transactions": 39,
+    "base_obligation": 3900278.98,
+    "total_obligation": 87921686.62,
+    "modification_amount": 84021407.64,
+    "modification_ratio": 22.542409676550882
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HB000123F1017_9700_47QTCK18D0052_4732",
+    "n_transactions": 13,
+    "base_obligation": 4750000.0,
+    "total_obligation": 26669000.0,
+    "modification_amount": 21919000.0,
+    "modification_ratio": 5.614526315789473
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HB000123F1030_9700_47QTCA22D00CE_4732",
+    "n_transactions": 14,
+    "base_obligation": 1250000.0,
+    "total_obligation": 9619113.03,
+    "modification_amount": 8369113.029999999,
+    "modification_ratio": 7.6952904239999995
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HB000123F1043_9700_NNG15SC59B_8000",
+    "n_transactions": 2,
+    "base_obligation": 1200206.44,
+    "total_obligation": 1200206.44,
+    "modification_amount": 0.0,
+    "modification_ratio": 1.0
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HB000123F1045_9700_NNG15SD19B_8000",
+    "n_transactions": 8,
+    "base_obligation": 738425.73,
+    "total_obligation": 10533858.28,
+    "modification_amount": 9795432.549999999,
+    "modification_ratio": 14.265291487066682
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HB000124C0001_9700_-NONE-_-NONE-",
+    "n_transactions": 2,
+    "base_obligation": 750000.0,
+    "total_obligation": 1536750.0,
+    "modification_amount": 786750.0,
+    "modification_ratio": 2.049
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HB000124C0002_9700_-NONE-_-NONE-",
+    "n_transactions": 11,
+    "base_obligation": 5400000.0,
+    "total_obligation": 20670686.92,
+    "modification_amount": 15270686.920000002,
+    "modification_ratio": 3.8279049851851856
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HB000124F0003_9700_HB000124D0002_9700",
+    "n_transactions": 1,
+    "base_obligation": 907562.5,
+    "total_obligation": 907562.5,
+    "modification_amount": 0.0,
+    "modification_ratio": 1.0
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HB000124F0006_9700_NNG15SD25B_8000",
+    "n_transactions": 2,
+    "base_obligation": 3766538.62,
+    "total_obligation": 7816358.32,
+    "modification_amount": 4049819.7,
+    "modification_ratio": 2.0752099231097225
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HB000124F0019_9700_HB000124D0001_9700",
+    "n_transactions": 11,
+    "base_obligation": 996814.0,
+    "total_obligation": 15796525.0,
+    "modification_amount": 14799711.0,
+    "modification_ratio": 15.84701358528271
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HB000124F0020_9700_HB000124D0001_9700",
+    "n_transactions": 11,
+    "base_obligation": 1000000.0,
+    "total_obligation": 7141494.859999999,
+    "modification_amount": 6141494.859999999,
+    "modification_ratio": 7.141494859999999
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HB000124F0021_9700_NNG15SC42B_8000",
+    "n_transactions": 2,
+    "base_obligation": 1015938.3,
+    "total_obligation": 1015938.3,
+    "modification_amount": 0.0,
+    "modification_ratio": 1.0
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HB000124F0023_9700_HB000124D0001_9700",
+    "n_transactions": 6,
+    "base_obligation": 1000000.0,
+    "total_obligation": 6349039.32,
+    "modification_amount": 5349039.32,
+    "modification_ratio": 6.34903932
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HB000124F0026_9700_HB000124D0001_9700",
+    "n_transactions": 9,
+    "base_obligation": 555541.66,
+    "total_obligation": 5799324.66,
+    "modification_amount": 5243783.0,
+    "modification_ratio": 10.43904548940578
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HDTRA123C0019_9700_-NONE-_-NONE-",
+    "n_transactions": 12,
+    "base_obligation": 547974.25,
+    "total_obligation": 5686169.640000001,
+    "modification_amount": 5138195.390000001,
+    "modification_ratio": 10.376709562538752
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HDTRA123C0080_9700_-NONE-_-NONE-",
+    "n_transactions": 7,
+    "base_obligation": 566169.6,
+    "total_obligation": 2317409.38,
+    "modification_amount": 1751239.7799999998,
+    "modification_ratio": 4.093136367618467
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HDTRA123F0012_9700_HDTRA119D0003_9700",
+    "n_transactions": 21,
+    "base_obligation": 5619000.0,
+    "total_obligation": 22118675.74,
+    "modification_amount": 16499675.739999998,
+    "modification_ratio": 3.9364078554903004
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HDTRA123F0038_9700_NNG15SC59B_8000",
+    "n_transactions": 7,
+    "base_obligation": 570904.0,
+    "total_obligation": 2297043.0,
+    "modification_amount": 1726139.0,
+    "modification_ratio": 4.023518840295391
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HDTRA123F0047_9700_HDTRA118D0003_9700",
+    "n_transactions": 6,
+    "base_obligation": 7300000.0,
+    "total_obligation": 13046224.67,
+    "modification_amount": 5746224.67,
+    "modification_ratio": 1.7871540643835617
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HDTRA123F0055_9700_HDTRA118D0011_9700",
+    "n_transactions": 29,
+    "base_obligation": 6413616.15,
+    "total_obligation": 53521448.8,
+    "modification_amount": 47107832.65,
+    "modification_ratio": 8.344972250950814
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HDTRA123F0056_9700_HDTRA118D0011_9700",
+    "n_transactions": 25,
+    "base_obligation": 10635879.22,
+    "total_obligation": 45409563.55,
+    "modification_amount": 34773684.33,
+    "modification_ratio": 4.269469651799976
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HDTRA123F0088_9700_NNG15SD11B_8000",
+    "n_transactions": 7,
+    "base_obligation": 615255.75,
+    "total_obligation": 2031254.51,
+    "modification_amount": 1415998.76,
+    "modification_ratio": 3.301479929281441
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HDTRA124F0001_9700_HDTRA118D0011_9700",
+    "n_transactions": 14,
+    "base_obligation": 4392639.52,
+    "total_obligation": 10421090.2,
+    "modification_amount": 6028450.68,
+    "modification_ratio": 2.3723982249287783
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HDTRA124F0013_9700_N6600121A0083_9700",
+    "n_transactions": 9,
+    "base_obligation": 5249580.44,
+    "total_obligation": 13891287.31,
+    "modification_amount": 8641706.870000001,
+    "modification_ratio": 2.646170959521481
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HDTRA124F0020_9700_HDTRA119D0002_9700",
+    "n_transactions": 13,
+    "base_obligation": 1103619.18,
+    "total_obligation": 12085398.61,
+    "modification_amount": 10981779.43,
+    "modification_ratio": 10.950696425917497
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HDTRA124F0023_9700_N6600120A0022_9700",
+    "n_transactions": 1,
+    "base_obligation": 1080788.94,
+    "total_obligation": 1080788.94,
+    "modification_amount": 0.0,
+    "modification_ratio": 1.0
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HDTRA124F0034_9700_HDTRA118D0011_9700",
+    "n_transactions": 10,
+    "base_obligation": 1369020.89,
+    "total_obligation": 9585306.35,
+    "modification_amount": 8216285.46,
+    "modification_ratio": 7.001577857588426
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HDTRA124F0037_9700_HDTRA119D0004_9700",
+    "n_transactions": 7,
+    "base_obligation": 3850742.67,
+    "total_obligation": 4260817.75,
+    "modification_amount": 410075.0800000001,
+    "modification_ratio": 1.1064924652573578
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HE125423F3003_9700_HE125420D3003_9700",
+    "n_transactions": 2,
+    "base_obligation": 1024500.0,
+    "total_obligation": 1031050.0,
+    "modification_amount": 6550.0,
+    "modification_ratio": 1.0063933626159103
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HE125423F3005_9700_N6600120A0022_9700",
+    "n_transactions": 2,
+    "base_obligation": 2176859.08,
+    "total_obligation": 2176859.08,
+    "modification_amount": 0.0,
+    "modification_ratio": 1.0
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HE125423F3006_9700_N6600119A0057_9700",
+    "n_transactions": 4,
+    "base_obligation": 1494917.59,
+    "total_obligation": 2494353.5700000003,
+    "modification_amount": 999435.9800000002,
+    "modification_ratio": 1.6685559034729134
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HE125423F3008_9700_GS35F372DA_4732",
+    "n_transactions": 4,
+    "base_obligation": 2695000.0,
+    "total_obligation": 8115125.0,
+    "modification_amount": 5420125.0,
+    "modification_ratio": 3.0111781076066793
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HE125423F3014_9700_NNG15SD85B_8000",
+    "n_transactions": 7,
+    "base_obligation": 12093662.6,
+    "total_obligation": 25410139.77,
+    "modification_amount": 13316477.17,
+    "modification_ratio": 2.1011120129976173
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HQ085223F0002_9700_HQ085222D0002_9700",
+    "n_transactions": 6,
+    "base_obligation": 3866541.43,
+    "total_obligation": 3975638.0100000002,
+    "modification_amount": 109096.58000000007,
+    "modification_ratio": 1.0282155466261227
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HQ085523F0010_9700_47QTCA20D007V_4732",
+    "n_transactions": 22,
+    "base_obligation": 1420620.0,
+    "total_obligation": 7330258.97,
+    "modification_amount": 5909638.97,
+    "modification_ratio": 5.15990128957779
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HQ085623C0002_9700_-NONE-_-NONE-",
+    "n_transactions": 9,
+    "base_obligation": 1633432.53,
+    "total_obligation": 2932037.76,
+    "modification_amount": 1298605.2299999997,
+    "modification_ratio": 1.7950161430910156
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HQ085723F0001_9700_N0024418D0001_9700",
+    "n_transactions": 8,
+    "base_obligation": 557906.83,
+    "total_obligation": 858454.34,
+    "modification_amount": 300547.51,
+    "modification_ratio": 1.538705557700378
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HQ085723F1500_9700_HQ079617D0001_9700",
+    "n_transactions": 27,
+    "base_obligation": 200000.0,
+    "total_obligation": 9452464.06,
+    "modification_amount": 9252464.06,
+    "modification_ratio": 47.262320300000006
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HQ085723F3100_9700_HQ079617D0001_9700",
+    "n_transactions": 24,
+    "base_obligation": 1200000.0,
+    "total_obligation": 16258100.120000001,
+    "modification_amount": 15058100.120000001,
+    "modification_ratio": 13.548416766666667
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HS002122C0004_9700_-NONE-_-NONE-",
+    "n_transactions": 33,
+    "base_obligation": 8613739.68,
+    "total_obligation": 151303634.26,
+    "modification_amount": 142689894.57999998,
+    "modification_ratio": 17.56538273513276
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HS002122C0005_9700_-NONE-_-NONE-",
+    "n_transactions": 11,
+    "base_obligation": 5251247.8,
+    "total_obligation": 9379026.61,
+    "modification_amount": 4127778.8099999996,
+    "modification_ratio": 1.7860567558819067
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HS002122F0005_9700_47QTCA20D0019_4732",
+    "n_transactions": 5,
+    "base_obligation": 352736.84,
+    "total_obligation": 1195621.8900000001,
+    "modification_amount": 842885.05,
+    "modification_ratio": 3.3895577507583274
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HS002122F0038_9700_N6600119A0120_9700",
+    "n_transactions": 5,
+    "base_obligation": 529600.0,
+    "total_obligation": 1527213.44,
+    "modification_amount": 997613.44,
+    "modification_ratio": 2.883711178247734
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HS002122F0073_9700_N6600119A0120_9700",
+    "n_transactions": 6,
+    "base_obligation": 25271064.6,
+    "total_obligation": 72228593.22,
+    "modification_amount": 46957528.62,
+    "modification_ratio": 2.858153954463794
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HS002122P0014_9700_-NONE-_-NONE-",
+    "n_transactions": 7,
+    "base_obligation": 761931.7,
+    "total_obligation": 3382350.12,
+    "modification_amount": 2620418.42,
+    "modification_ratio": 4.439177579827693
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HS002123C0001_9700_-NONE-_-NONE-",
+    "n_transactions": 7,
+    "base_obligation": 2017508.2,
+    "total_obligation": 4630098.06,
+    "modification_amount": 2612589.8599999994,
+    "modification_ratio": 2.2949587317662448
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HS002123C0006_9700_-NONE-_-NONE-",
+    "n_transactions": 6,
+    "base_obligation": 3359974.4,
+    "total_obligation": 10364857.6,
+    "modification_amount": 7004883.199999999,
+    "modification_ratio": 3.084802550876578
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HS002123C0012_9700_-NONE-_-NONE-",
+    "n_transactions": 9,
+    "base_obligation": 7778524.8,
+    "total_obligation": 54496256.0,
+    "modification_amount": 46717731.2,
+    "modification_ratio": 7.00598859053583
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HS002123F0036_9700_N0024418D0001_9700",
+    "n_transactions": 4,
+    "base_obligation": 1163519.4,
+    "total_obligation": 1080234.88,
+    "modification_amount": -83284.52000000002,
+    "modification_ratio": 0.9284201707337238
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HS002123F0040_9700_NNG15SC27B_8000",
+    "n_transactions": 6,
+    "base_obligation": 1680104.35,
+    "total_obligation": 5764023.83,
+    "modification_amount": 4083919.48,
+    "modification_ratio": 3.4307534707591225
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HS002123F0060_9700_N6600119A0044_9700",
+    "n_transactions": 9,
+    "base_obligation": 1287668.15,
+    "total_obligation": 4513987.12,
+    "modification_amount": 3226318.97,
+    "modification_ratio": 3.505551581748761
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HS002123F0061_9700_47QRAD20D1124_4732",
+    "n_transactions": 9,
+    "base_obligation": 2949994.17,
+    "total_obligation": 7906190.21,
+    "modification_amount": 4956196.04,
+    "modification_ratio": 2.6800697745107747
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HS002123F0072_9700_N6600119A0049_9700",
+    "n_transactions": 6,
+    "base_obligation": 850453.0,
+    "total_obligation": 3669710.0,
+    "modification_amount": 2819257.0,
+    "modification_ratio": 4.315006237852062
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HS002123F0085_9700_47QTCK18D0060_4732",
+    "n_transactions": 17,
+    "base_obligation": 2890771.0,
+    "total_obligation": 34364591.4,
+    "modification_amount": 31473820.4,
+    "modification_ratio": 11.887690654154202
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HS002123F0091_9700_47QTCK18D0032_4732",
+    "n_transactions": 15,
+    "base_obligation": 581672.27,
+    "total_obligation": 1344598.3,
+    "modification_amount": 762926.03,
+    "modification_ratio": 2.3116080469161786
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HS002124C0002_9700_-NONE-_-NONE-",
+    "n_transactions": 4,
+    "base_obligation": 4000000.0,
+    "total_obligation": 9411630.12,
+    "modification_amount": 5411630.119999999,
+    "modification_ratio": 2.35290753
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HT001123C0076_9700_-NONE-_-NONE-",
+    "n_transactions": 10,
+    "base_obligation": 540940.8,
+    "total_obligation": 4035221.11,
+    "modification_amount": 3494280.3099999996,
+    "modification_ratio": 7.459635342721421
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HT001123C0078_9700_-NONE-_-NONE-",
+    "n_transactions": 2,
+    "base_obligation": 587056.8,
+    "total_obligation": 1301967.88,
+    "modification_amount": 714911.0799999998,
+    "modification_ratio": 2.217788602397587
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HT001123C0096_9700_-NONE-_-NONE-",
+    "n_transactions": 3,
+    "base_obligation": 1234999.98,
+    "total_obligation": 2469999.96,
+    "modification_amount": 1234999.98,
+    "modification_ratio": 2.0
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HT001123C0097_9700_-NONE-_-NONE-",
+    "n_transactions": 8,
+    "base_obligation": 0.0,
+    "total_obligation": 7728913.95,
+    "modification_amount": 7728913.95,
+    "modification_ratio": null
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HT001123C0103_9700_-NONE-_-NONE-",
+    "n_transactions": 6,
+    "base_obligation": 21669012.58,
+    "total_obligation": 95543860.89999999,
+    "modification_amount": 73874848.32,
+    "modification_ratio": 4.409239255700316
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HT001123C0104_9700_-NONE-_-NONE-",
+    "n_transactions": 8,
+    "base_obligation": 0.0,
+    "total_obligation": 11948973.06,
+    "modification_amount": 11948973.06,
+    "modification_ratio": null
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HT001123F0008_9700_GS35F0579T_4730",
+    "n_transactions": 1,
+    "base_obligation": 919578.69,
+    "total_obligation": 919578.69,
+    "modification_amount": 0.0,
+    "modification_ratio": 1.0
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HT001123F0009_9700_GS35F598GA_4732",
+    "n_transactions": 4,
+    "base_obligation": 0.0,
+    "total_obligation": 22261797.87,
+    "modification_amount": 22261797.87,
+    "modification_ratio": null
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HT001123F0016_9700_HT001121A0001_9700",
+    "n_transactions": 3,
+    "base_obligation": 1725294.82,
+    "total_obligation": 2563907.62,
+    "modification_amount": 838612.8,
+    "modification_ratio": 1.4860692736560817
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HT001123F0030_9700_GS35F052CA_4732",
+    "n_transactions": 6,
+    "base_obligation": 3279965.04,
+    "total_obligation": 10250042.68,
+    "modification_amount": 6970077.64,
+    "modification_ratio": 3.125046320615661
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HT001123F0035_9700_HT001121A0001_9700",
+    "n_transactions": 4,
+    "base_obligation": 921664.29,
+    "total_obligation": 1465389.09,
+    "modification_amount": 543724.8,
+    "modification_ratio": 1.5899380131132128
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HT001123F0036_9700_GS35F437CA_4732",
+    "n_transactions": 4,
+    "base_obligation": 1100264.0,
+    "total_obligation": 1416085.5,
+    "modification_amount": 315821.5,
+    "modification_ratio": 1.2870415645699578
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HT001123F0043_9700_HT001121A0001_9700",
+    "n_transactions": 6,
+    "base_obligation": 483651.6,
+    "total_obligation": 1010742.07,
+    "modification_amount": 527090.47,
+    "modification_ratio": 2.0898143829153053
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HT001123F0047_9700_GS35F413BA_4732",
+    "n_transactions": 7,
+    "base_obligation": 3622266.0,
+    "total_obligation": 34721998.78,
+    "modification_amount": 31099732.78,
+    "modification_ratio": 9.585712032192005
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HT001123F0050_9700_GS35F348DA_4732",
+    "n_transactions": 1,
+    "base_obligation": 997590.7,
+    "total_obligation": 997590.7,
+    "modification_amount": 0.0,
+    "modification_ratio": 1.0
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HT001123F0051_9700_NNG15SD21B_8000",
+    "n_transactions": 8,
+    "base_obligation": 532407.7,
+    "total_obligation": 1096839.4,
+    "modification_amount": 564431.7,
+    "modification_ratio": 2.0601493930309425
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HT001123F0052_9700_NNG15SD21B_8000",
+    "n_transactions": 7,
+    "base_obligation": 487275.0,
+    "total_obligation": 1310786.8800000001,
+    "modification_amount": 823511.8800000001,
+    "modification_ratio": 2.690035154686779
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HT001123F0053_9700_NNG15SD27B_8000",
+    "n_transactions": 5,
+    "base_obligation": 357985.2,
+    "total_obligation": 893937.73,
+    "modification_amount": 535952.53,
+    "modification_ratio": 2.4971359989183908
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HT001123F0060_9700_GS35F0269W_4730",
+    "n_transactions": 4,
+    "base_obligation": 763459.23,
+    "total_obligation": 3345213.05,
+    "modification_amount": 2581753.82,
+    "modification_ratio": 4.381652508150304
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HT001123F0061_9700_HT001121A0001_9700",
+    "n_transactions": 12,
+    "base_obligation": 1426450.8,
+    "total_obligation": 6099940.8,
+    "modification_amount": 4673490.0,
+    "modification_ratio": 4.276306480391752
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HT001123F0062_9700_47QRAA19D007P_4732",
+    "n_transactions": 5,
+    "base_obligation": 316212.14,
+    "total_obligation": 1249832.1400000001,
+    "modification_amount": 933620.0000000001,
+    "modification_ratio": 3.9525115639140234
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HT001123F0066_9700_GS35F598GA_4732",
+    "n_transactions": 10,
+    "base_obligation": 0.0,
+    "total_obligation": 12071292.69,
+    "modification_amount": 12071292.69,
+    "modification_ratio": null
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HT001123F0067_9700_47QTCA19D007L_4732",
+    "n_transactions": 6,
+    "base_obligation": 0.0,
+    "total_obligation": 3901648.64,
+    "modification_amount": 3901648.64,
+    "modification_ratio": null
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HT001123F0068_9700_GS35F058DA_4732",
+    "n_transactions": 2,
+    "base_obligation": 1740120.84,
+    "total_obligation": 1616425.83,
+    "modification_amount": -123695.01000000001,
+    "modification_ratio": 0.9289158504647298
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HT001123F0078_9700_47QTCA22D00AH_4732",
+    "n_transactions": 6,
+    "base_obligation": 5106395.12,
+    "total_obligation": 16323936.719999999,
+    "modification_amount": 11217541.599999998,
+    "modification_ratio": 3.1967633401623647
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HT001124F0057_9700_47QTCA24D000D_4732",
+    "n_transactions": 5,
+    "base_obligation": 13707088.75,
+    "total_obligation": 27409749.65,
+    "modification_amount": 13702660.899999999,
+    "modification_ratio": 1.9996769664163734
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HT001124F0057_9700_GS35F0151S_4730",
+    "n_transactions": 1,
+    "base_obligation": 13707088.75,
+    "total_obligation": 13707088.75,
+    "modification_amount": 0.0,
+    "modification_ratio": 1.0
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HT001423P0073_9700_-NONE-_-NONE-",
+    "n_transactions": 7,
+    "base_obligation": 1292345.17,
+    "total_obligation": 5776061.81,
+    "modification_amount": 4483716.64,
+    "modification_ratio": 4.4694420222114495
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HT001423P0183_9700_-NONE-_-NONE-",
+    "n_transactions": 4,
+    "base_obligation": 2747902.32,
+    "total_obligation": 6059716.05,
+    "modification_amount": 3311813.73,
+    "modification_ratio": 2.2052152312313633
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HT001424C0002_9700_-NONE-_-NONE-",
+    "n_transactions": 14,
+    "base_obligation": 0.0,
+    "total_obligation": 57697315.86,
+    "modification_amount": 57697315.86,
+    "modification_ratio": null
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HT001523C0003_9700_-NONE-_-NONE-",
+    "n_transactions": 7,
+    "base_obligation": 1038573.75,
+    "total_obligation": 5622319.75,
+    "modification_amount": 4583746.0,
+    "modification_ratio": 5.413500726356698
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HT001523C0008_9700_-NONE-_-NONE-",
+    "n_transactions": 4,
+    "base_obligation": 515505.0,
+    "total_obligation": 1625600.0,
+    "modification_amount": 1110095.0,
+    "modification_ratio": 3.153412673009961
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HT001523F0022_9700_47QTCB21D0173_4732",
+    "n_transactions": 9,
+    "base_obligation": 1987056.0,
+    "total_obligation": 5917872.79,
+    "modification_amount": 3930816.79,
+    "modification_ratio": 2.9782113790451805
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HT001523F0039_9700_47QTCH18D0028_4732",
+    "n_transactions": 5,
+    "base_obligation": 448273.99,
+    "total_obligation": 862311.76,
+    "modification_amount": 414037.77,
+    "modification_ratio": 1.923626574898981
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HT001523F0097_9700_NNG15SC90B_8000",
+    "n_transactions": 3,
+    "base_obligation": 9779980.33,
+    "total_obligation": 12152877.39,
+    "modification_amount": 2372897.0600000005,
+    "modification_ratio": 1.242627999232387
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HT001523F0127_9700_NNG15SD19B_8000",
+    "n_transactions": 5,
+    "base_obligation": 561932.07,
+    "total_obligation": 2038527.02,
+    "modification_amount": 1476594.9500000002,
+    "modification_ratio": 3.627710765822638
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HT001523F0155_9700_NNG15SD60B_8000",
+    "n_transactions": 1,
+    "base_obligation": 5272038.04,
+    "total_obligation": 5272038.04,
+    "modification_amount": 0.0,
+    "modification_ratio": 1.0
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HT003823C0001_9700_-NONE-_-NONE-",
+    "n_transactions": 11,
+    "base_obligation": 1453051.56,
+    "total_obligation": 5930585.21,
+    "modification_amount": 4477533.65,
+    "modification_ratio": 4.081469215035976
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HT003823C0003_9700_-NONE-_-NONE-",
+    "n_transactions": 60,
+    "base_obligation": 9343836.0,
+    "total_obligation": 20236744.43,
+    "modification_amount": 10892908.43,
+    "modification_ratio": 2.165785490027864
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HT003823C0004_9700_-NONE-_-NONE-",
+    "n_transactions": 21,
+    "base_obligation": 10304017.38,
+    "total_obligation": 81136242.35000001,
+    "modification_amount": 70832224.97000001,
+    "modification_ratio": 7.874233840820637
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HT003823C0006_9700_-NONE-_-NONE-",
+    "n_transactions": 4,
+    "base_obligation": 1932573.29,
+    "total_obligation": 6084824.86,
+    "modification_amount": 4152251.5700000003,
+    "modification_ratio": 3.148560984199466
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HT003823F0005_9700_HT003819D0001_9700",
+    "n_transactions": 7,
+    "base_obligation": 4454316.0,
+    "total_obligation": 6451996.81,
+    "modification_amount": 1997680.8099999996,
+    "modification_ratio": 1.448482058749312
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HT003823F0007_9700_HT003823D0001_9700",
+    "n_transactions": 22,
+    "base_obligation": 1877998.0,
+    "total_obligation": 46559740.25,
+    "modification_amount": 44681742.25,
+    "modification_ratio": 24.792220359127114
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HT003823F0009_9700_HT003822D0008_9700",
+    "n_transactions": 7,
+    "base_obligation": 1200000.0,
+    "total_obligation": 13940143.07,
+    "modification_amount": 12740143.07,
+    "modification_ratio": 11.616785891666668
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HT003823F0010_9700_HT003823D0001_9700",
+    "n_transactions": 2,
+    "base_obligation": 9812616.0,
+    "total_obligation": 9812616.0,
+    "modification_amount": 0.0,
+    "modification_ratio": 1.0
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HT003823F0011_9700_N0003915D0044_9700",
+    "n_transactions": 70,
+    "base_obligation": 150437659.12,
+    "total_obligation": 581628645.48,
+    "modification_amount": 431190986.36,
+    "modification_ratio": 3.8662436578865584
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HT003823F0013_9700_HT003822G0003_9700",
+    "n_transactions": 4,
+    "base_obligation": 7099773.2,
+    "total_obligation": 7076274.22,
+    "modification_amount": -23498.980000000447,
+    "modification_ratio": 0.9966901787792319
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HT003823F0017_9700_HT001520D0001_9700",
+    "n_transactions": 3,
+    "base_obligation": 4334624.48,
+    "total_obligation": 4325124.48,
+    "modification_amount": -9500.0,
+    "modification_ratio": 0.9978083453263753
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HT003823F0018_9700_HT001520D0001_9700",
+    "n_transactions": 5,
+    "base_obligation": 2451161.6,
+    "total_obligation": 2431161.6,
+    "modification_amount": -20000.0,
+    "modification_ratio": 0.9918406032470483
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HT003823F0019_9700_N0003915D0044_9700",
+    "n_transactions": 36,
+    "base_obligation": 473983.07,
+    "total_obligation": 172486187.82,
+    "modification_amount": 172012204.75,
+    "modification_ratio": 363.9079088204564
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HT003823F0020_9700_N0003915D0044_9700",
+    "n_transactions": 1,
+    "base_obligation": 1663642.05,
+    "total_obligation": 1663642.05,
+    "modification_amount": 0.0,
+    "modification_ratio": 1.0
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HT003823F0023_9700_FA830721G0018_9700",
+    "n_transactions": 2,
+    "base_obligation": 1246480.0,
+    "total_obligation": 1246480.0,
+    "modification_amount": 0.0,
+    "modification_ratio": 1.0
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HT003824F0002_9700_FA830720G0037_9700",
+    "n_transactions": 8,
+    "base_obligation": 4814851.52,
+    "total_obligation": 20025168.16,
+    "modification_amount": 15210316.64,
+    "modification_ratio": 4.159041681102557
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HT940824C0001_9700_-NONE-_-NONE-",
+    "n_transactions": 13,
+    "base_obligation": 3614702.92,
+    "total_obligation": 25410849.06,
+    "modification_amount": 21796146.14,
+    "modification_ratio": 7.0298582269106635
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HT941023F0194_9700_HHSN316201500040W_7529",
+    "n_transactions": 3,
+    "base_obligation": 292835.25,
+    "total_obligation": 983925.19,
+    "modification_amount": 691089.94,
+    "modification_ratio": 3.3599957313882123
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HT941023P0067_9700_-NONE-_-NONE-",
+    "n_transactions": 3,
+    "base_obligation": 469084.0,
+    "total_obligation": 1876336.0,
+    "modification_amount": 1407252.0,
+    "modification_ratio": 4.0
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HT942523C0029_9700_-NONE-_-NONE-",
+    "n_transactions": 5,
+    "base_obligation": 422052.5,
+    "total_obligation": 966073.5,
+    "modification_amount": 544021.0,
+    "modification_ratio": 2.288988929102422
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HT942523C0064_9700_-NONE-_-NONE-",
+    "n_transactions": 4,
+    "base_obligation": 1282190.04,
+    "total_obligation": 4266778.08,
+    "modification_amount": 2984588.04,
+    "modification_ratio": 3.3277267385418154
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HT942523F0081_9700_47QTCB22D0227_4732",
+    "n_transactions": 10,
+    "base_obligation": 850000.0,
+    "total_obligation": 1574874.74,
+    "modification_amount": 724874.74,
+    "modification_ratio": 1.8527938117647058
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HT942523F0178_9700_GS35F0486U_4730",
+    "n_transactions": 15,
+    "base_obligation": 2985463.6,
+    "total_obligation": 29835469.36,
+    "modification_amount": 26850005.759999998,
+    "modification_ratio": 9.993580012162935
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HT942523F0277_9700_W81XWH20D0063_9700",
+    "n_transactions": 3,
+    "base_obligation": 1902635.88,
+    "total_obligation": 1897096.89,
+    "modification_amount": -5538.989999999991,
+    "modification_ratio": 0.9970887808549054
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HT942523F0294_9700_47QTCB22D0194_4732",
+    "n_transactions": 14,
+    "base_obligation": 1710145.28,
+    "total_obligation": 15401894.290000001,
+    "modification_amount": 13691749.010000002,
+    "modification_ratio": 9.006190567622419
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HT942523F0327_9700_HHSN316201200115W_7529",
+    "n_transactions": 7,
+    "base_obligation": 485764.97,
+    "total_obligation": 4198780.970000001,
+    "modification_amount": 3713016.000000001,
+    "modification_ratio": 8.643647091308377
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HT942523F0342_9700_GS35F349CA_4732",
+    "n_transactions": 2,
+    "base_obligation": 6352496.08,
+    "total_obligation": 7450985.29,
+    "modification_amount": 1098489.21,
+    "modification_ratio": 1.1729224538144067
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HT942523F0366_9700_47QTCB21D0366_4732",
+    "n_transactions": 7,
+    "base_obligation": 426922.08,
+    "total_obligation": 1091286.52,
+    "modification_amount": 664364.44,
+    "modification_ratio": 2.5561725924318552
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HT942523F1235_9700_W52P1J18DA081_9700",
+    "n_transactions": 8,
+    "base_obligation": 1049107.12,
+    "total_obligation": 6546946.24,
+    "modification_amount": 5497839.12,
+    "modification_ratio": 6.240493573239689
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HT942523P0128_9700_-NONE-_-NONE-",
+    "n_transactions": 1,
+    "base_obligation": 2653832.0,
+    "total_obligation": 2653832.0,
+    "modification_amount": 0.0,
+    "modification_ratio": 1.0
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HT942523P0158_9700_-NONE-_-NONE-",
+    "n_transactions": 6,
+    "base_obligation": 374735.76,
+    "total_obligation": 1157426.72,
+    "modification_amount": 782690.96,
+    "modification_ratio": 3.088647638004977
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HT942524C0005_9700_-NONE-_-NONE-",
+    "n_transactions": 11,
+    "base_obligation": 730018.0,
+    "total_obligation": 2493307.71,
+    "modification_amount": 1763289.71,
+    "modification_ratio": 3.415405798213195
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HTC71124CD003_9700_-NONE-_-NONE-",
+    "n_transactions": 2,
+    "base_obligation": 0.0,
+    "total_obligation": 1300182.75,
+    "modification_amount": 1300182.75,
+    "modification_ratio": null
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HTC71124FD025_9700_HTC71123DD001_9700",
+    "n_transactions": 23,
+    "base_obligation": 12110728.64,
+    "total_obligation": 69717320.75,
+    "modification_amount": 57606592.11,
+    "modification_ratio": 5.756657821539629
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HTC71124FD028_9700_HTC71123DD001_9700",
+    "n_transactions": 11,
+    "base_obligation": 1906380.78,
+    "total_obligation": 14443082.54,
+    "modification_amount": 12536701.76,
+    "modification_ratio": 7.576179266767471
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HTC71124FD064_9700_47QTCA19D00G3_4732",
+    "n_transactions": 10,
+    "base_obligation": 0.0,
+    "total_obligation": 19886474.66,
+    "modification_amount": 19886474.66,
+    "modification_ratio": null
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HTC71124FD079_9700_NNG15SD71B_8000",
+    "n_transactions": 6,
+    "base_obligation": 0.0,
+    "total_obligation": 5168666.42,
+    "modification_amount": 5168666.42,
+    "modification_ratio": null
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HTC71124FD082_9700_NNG15SC59B_8000",
+    "n_transactions": 4,
+    "base_obligation": 0.0,
+    "total_obligation": 1224601.84,
+    "modification_amount": 1224601.84,
+    "modification_ratio": null
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HTC71124FD083_9700_GS35F545GA_4732",
+    "n_transactions": 8,
+    "base_obligation": 0.0,
+    "total_obligation": 10595506.450000001,
+    "modification_amount": 10595506.450000001,
+    "modification_ratio": null
+  },
+  {
+    "generated_internal_id": "CONT_AWD_HTC71124FD090_9700_HTC71123DD001_9700",
+    "n_transactions": 10,
+    "base_obligation": 0.0,
+    "total_obligation": 2191084.24,
+    "modification_amount": 2191084.24,
+    "modification_ratio": null
+  },
+  {
+    "generated_internal_id": "CONT_AWD_N0003923C7801_9700_-NONE-_-NONE-",
+    "n_transactions": 2,
+    "base_obligation": 4286073.2,
+    "total_obligation": 4286073.2,
+    "modification_amount": 0.0,
+    "modification_ratio": 1.0
+  },
+  {
+    "generated_internal_id": "CONT_AWD_N0017323C2020_9700_-NONE-_-NONE-",
+    "n_transactions": 4,
+    "base_obligation": 1090406.4,
+    "total_obligation": 1090406.4,
+    "modification_amount": 0.0,
+    "modification_ratio": 1.0
+  },
+  {
+    "generated_internal_id": "CONT_AWD_N0018922CZ025_9700_-NONE-_-NONE-",
+    "n_transactions": 9,
+    "base_obligation": 1596000.0,
+    "total_obligation": 3984000.0,
+    "modification_amount": 2388000.0,
+    "modification_ratio": 2.4962406015037595
+  },
+  {
+    "generated_internal_id": "CONT_AWD_N0024422F0333_9700_N0024420D0002_9700",
+    "n_transactions": 2,
+    "base_obligation": 2752735.92,
+    "total_obligation": 2752735.92,
+    "modification_amount": 0.0,
+    "modification_ratio": 1.0
+  },
+  {
+    "generated_internal_id": "CONT_AWD_N6523622F0151_9700_N0003918A0003_9700",
+    "n_transactions": 3,
+    "base_obligation": 17331469.56,
+    "total_obligation": 16510736.089999998,
+    "modification_amount": -820733.4700000007,
+    "modification_ratio": 0.9526449002400694
+  },
+  {
+    "generated_internal_id": "CONT_AWD_N6852022C0007_9700_-NONE-_-NONE-",
+    "n_transactions": 5,
+    "base_obligation": 4997950.0,
+    "total_obligation": 6542332.0,
+    "modification_amount": 1544382.0,
+    "modification_ratio": 1.3090030912674195
+  },
+  {
+    "generated_internal_id": "CONT_AWD_S5121A22F0006_9700_47QTCB22D0047_4732",
+    "n_transactions": 5,
+    "base_obligation": 250505.52,
+    "total_obligation": 1045066.44,
+    "modification_amount": 794560.9199999999,
+    "modification_ratio": 4.171829986021865
+  },
+  {
+    "generated_internal_id": "CONT_AWD_S5121A23C0007_9700_-NONE-_-NONE-",
+    "n_transactions": 8,
+    "base_obligation": 5460683.24,
+    "total_obligation": 18632705.52,
+    "modification_amount": 13172022.28,
+    "modification_ratio": 3.4121564465621703
+  },
+  {
+    "generated_internal_id": "CONT_AWD_S5121A23F0010_9700_W52P1J20D0055_9700",
+    "n_transactions": 8,
+    "base_obligation": 1685567.04,
+    "total_obligation": 5071141.24,
+    "modification_amount": 3385574.2,
+    "modification_ratio": 3.0085669211946624
+  }
+]

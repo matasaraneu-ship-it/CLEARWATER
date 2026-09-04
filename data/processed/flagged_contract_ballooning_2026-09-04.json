@@ -1,0 +1,247 @@
+{
+  "rule": {
+    "version": 2,
+    "note": "No pass/fail ratio cutoff \u2014 v1's fixed threshold mostly just relabeled the middle of a normal distribution. This reports the distribution itself, vendor leaderboards, and a competed vs. not-competed cross-cut instead.",
+    "leaderboard_min_contracts": 2,
+    "agg_leaderboard_min_base": 1000000
+  },
+  "overall": {
+    "n": 178,
+    "mean": 5.95,
+    "median": 2.69,
+    "p25": 1.24,
+    "p75": 4.27,
+    "min": 0.93,
+    "max": 363.91,
+    "pct_any_growth": 78.1,
+    "pct_doubled": 65.2
+  },
+  "overall_histogram": {
+    "0-1x": 7,
+    "1-1.5x": 44,
+    "1.5-2x": 11,
+    "2-3x": 36,
+    "3-5x": 44,
+    "5-8x": 18,
+    "8-15x": 12,
+    "15-30x": 4,
+    "30-60x": 1,
+    "60-120x": 0,
+    "120-400x": 1
+  },
+  "leaderboards": {
+    "frequency": {
+      "GLOBAL ENTERPRISE SOLUTIONS, INC.": {
+        "ballooned": 9,
+        "of": 14
+      },
+      "THE JOHNS HOPKINS UNIVERSITY APPLIED PHYSICS LABORATORY LLC": {
+        "ballooned": 5,
+        "of": 5
+      },
+      "SCIENCE APPLICATIONS INTERNATIONAL CORPORATION": {
+        "ballooned": 4,
+        "of": 4
+      },
+      "TEKSYNAP CORPORATION": {
+        "ballooned": 4,
+        "of": 4
+      },
+      "KREATIVE TECHNOLOGIES, LLC": {
+        "ballooned": 4,
+        "of": 4
+      },
+      "CARAHSOFT TECHNOLOGY CORP": {
+        "ballooned": 3,
+        "of": 5
+      },
+      "LEIDOS, INC.": {
+        "ballooned": 3,
+        "of": 4
+      },
+      "BROADLEAF, INC.": {
+        "ballooned": 2,
+        "of": 3
+      },
+      "PARSONS GOVERNMENT SERVICES INC.": {
+        "ballooned": 2,
+        "of": 2
+      },
+      "ALVAREZ LLC": {
+        "ballooned": 2,
+        "of": 2
+      },
+      "KADIAK LLC": {
+        "ballooned": 2,
+        "of": 2
+      },
+      "AMENTUM TECHNOLOGY, INC.": {
+        "ballooned": 2,
+        "of": 2
+      },
+      "AGILE DECISION SCIENCES, LLC": {
+        "ballooned": 2,
+        "of": 2
+      },
+      "ASRC FEDERAL CYBER, LLC": {
+        "ballooned": 2,
+        "of": 2
+      },
+      "FEDSTORE CORPORATION": {
+        "ballooned": 2,
+        "of": 2
+      },
+      "ECHELON SERVICES, LLC": {
+        "ballooned": 2,
+        "of": 2
+      },
+      "ASM RESEARCH, LLC": {
+        "ballooned": 1,
+        "of": 3
+      },
+      "AFFIGENT, LLC": {
+        "ballooned": 1,
+        "of": 2
+      },
+      "GENERAL DYNAMICS INFORMATION TECHNOLOGY, INC.": {
+        "ballooned": 1,
+        "of": 2
+      },
+      "AT&T MOBILITY NATIONAL ACCOUNTS LLC": {
+        "ballooned": 1,
+        "of": 2
+      },
+      "INTELLIDYNE, L.L.C.": {
+        "ballooned": 1,
+        "of": 2
+      },
+      "MANTECH ADVANCED SYSTEMS INTERNATIONAL, INC.": {
+        "ballooned": 1,
+        "of": 2
+      },
+      "OCEUS NETWORKS, LLC": {
+        "ballooned": 0,
+        "of": 2
+      },
+      "VISTA DEFENSE TECHNOLOGIES, LLC": {
+        "ballooned": 0,
+        "of": 2
+      }
+    },
+    "aggregate_ratio": {
+      "AMENTUM TECHNOLOGY, INC.": 18.36,
+      "PARSONS GOVERNMENT SERVICES INC.": 13.25,
+      "AGILE DECISION SCIENCES, LLC": 12.55,
+      "KADIAK LLC": 11.23,
+      "ALVAREZ LLC": 9.67,
+      "THE JOHNS HOPKINS UNIVERSITY APPLIED PHYSICS LABORATORY LLC": 8.49,
+      "SCIENCE APPLICATIONS INTERNATIONAL CORPORATION": 5.26,
+      "TEKSYNAP CORPORATION": 5.21,
+      "LEIDOS, INC.": 4.86,
+      "MANTECH ADVANCED SYSTEMS INTERNATIONAL, INC.": 4.82,
+      "ECHELON SERVICES, LLC": 3.34,
+      "BROADLEAF, INC.": 3.21,
+      "ASRC FEDERAL CYBER, LLC": 2.83,
+      "CARAHSOFT TECHNOLOGY CORP": 2.69,
+      "GLOBAL ENTERPRISE SOLUTIONS, INC.": 2.58,
+      "KREATIVE TECHNOLOGIES, LLC": 2.44,
+      "FEDSTORE CORPORATION": 2.36,
+      "AFFIGENT, LLC": 1.97,
+      "GENERAL DYNAMICS INFORMATION TECHNOLOGY, INC.": 1.68,
+      "INTELLIDYNE, L.L.C.": 1.5,
+      "ASM RESEARCH, LLC": 1.18,
+      "AT&T MOBILITY NATIONAL ACCOUNTS LLC": 1.13,
+      "OCEUS NETWORKS, LLC": 1.0,
+      "VISTA DEFENSE TECHNOLOGIES, LLC": 1.0
+    }
+  },
+  "competition_cross_cut": {
+    "three_way": {
+      "not_competed": {
+        "n": 62,
+        "mean": 3.54,
+        "median": 2.76,
+        "p25": 1.43,
+        "p75": 4.41,
+        "min": 0.99,
+        "max": 15.85,
+        "pct_any_growth": 77.4,
+        "pct_doubled": 67.7
+      },
+      "competed_1bid": {
+        "n": 32,
+        "mean": 3.46,
+        "median": 2.31,
+        "p25": 1.17,
+        "p75": 3.95,
+        "min": 0.93,
+        "max": 22.54,
+        "pct_any_growth": 78.1,
+        "pct_doubled": 53.1
+      },
+      "competed_multi": {
+        "n": 84,
+        "mean": 8.68,
+        "median": 2.8,
+        "p25": 1.41,
+        "p75": 4.32,
+        "min": 0.95,
+        "max": 363.91,
+        "pct_any_growth": 78.6,
+        "pct_doubled": 67.9
+      }
+    },
+    "two_way": {
+      "competed": {
+        "n": 116,
+        "mean": 7.24,
+        "median": 2.68,
+        "p25": 1.18,
+        "p75": 4.27,
+        "min": 0.93,
+        "max": 363.91,
+        "pct_any_growth": 78.4,
+        "pct_doubled": 63.8
+      },
+      "not_competed": {
+        "n": 62,
+        "mean": 3.54,
+        "median": 2.76,
+        "p25": 1.43,
+        "p75": 4.41,
+        "min": 0.99,
+        "max": 15.85,
+        "pct_any_growth": 77.4,
+        "pct_doubled": 67.7
+      }
+    },
+    "two_way_histograms": {
+      "competed": {
+        "0-1x": 4,
+        "1-1.5x": 30,
+        "1.5-2x": 8,
+        "2-3x": 24,
+        "3-5x": 26,
+        "5-8x": 10,
+        "8-15x": 9,
+        "15-30x": 3,
+        "30-60x": 1,
+        "60-120x": 0,
+        "120-400x": 1
+      },
+      "not_competed": {
+        "0-1x": 3,
+        "1-1.5x": 14,
+        "1.5-2x": 3,
+        "2-3x": 12,
+        "3-5x": 18,
+        "5-8x": 8,
+        "8-15x": 3,
+        "15-30x": 1,
+        "30-60x": 0,
+        "60-120x": 0,
+        "120-400x": 0
+      }
+    }
+  }
+}
