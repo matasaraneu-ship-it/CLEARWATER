@@ -4,7 +4,42 @@ A risk-triage tool for DoD IT/professional-services contracts, built on public U
 
 **This is a triage tool, not an accusation engine.** Every number below comes from public procurement data. Nothing here is evidence of wrongdoing — it's a starting point for the kind of question a contracting officer, auditor, or journalist would ask next.
 
-[**Open the dashboard**](dashboard.html) for the full interactive walkthrough — this README covers the methodology and how to reproduce it.
+[**Open the dashboard**](dashboard.html) for the full interactive walkthrough.
+
+## Overview
+
+I built Clearwater to work with a real, messy, production-shaped dataset — live API, inconsistent schemas, ambiguous fields — instead of a cleaned classroom dataset, and to practice the full loop of pulling, storing, analyzing, and presenting data end to end, with every threshold and scope decision defended against the real underlying distribution rather than assumed.
+
+**Process.** Pull ~10,000 DoD IT/professional-services contracts (2022–2024) from USASpending's public API → clean and load into a SQLite database → compute vendor concentration (Signal 1), which narrows the population to 190 contracts inside 15 highly-concentrated markets → pull award detail and transaction history for just those 190 → run competition-avoidance (Signal 2) and contract-growth (Signal 3) analysis → build an interactive dashboard on top of all three.
+
+**Decisions.**
+- Scoped Signals 2 and 3 to the 190 HHI-flagged contracts rather than the full ~10,000 — an explicit reportability/risk/efficiency tradeoff, not a default.
+- Dropped a $1M dollar floor from the competition-avoidance signal after checking the real data and confirming it changed the flagged count by zero — a non-functional threshold, kept out rather than left in for show.
+- Replaced an early pass/fail cutoff on contract growth with the actual distribution plus vendor leaderboards, once the real numbers showed growth after award is the norm (78% of contracts), not an exception worth a binary flag.
+- Pull-once, not live-refresh — the pipeline hits the public API once per stage and caches everything locally, to avoid unnecessary repeated load on a public government API.
+
+**Limitations.**
+- Scoped to DoD IT/professional-services contracts (PSC "D" series) across three fiscal years — not the full federal contracting universe.
+- Signals 2 and 3 only cover the 190 contracts inside HHI-flagged markets, not all ~10,000 pulled contracts.
+- The original project scope also called for comparing each sub-agency's sole-source *rate* against a DoD-wide baseline; that's not computed here, since it needs competition data for every contract in the dataset, not just the 190 with award-level detail. Documented as a known gap rather than silently skipped.
+- These are risk indicators built from public data, not findings — see the disclaimer above.
+
+**Challenges.** Five real bugs surfaced while building this, each caught by checking actual output instead of trusting a clean run:
+- **Primary-key collision** — `INSERT OR REPLACE` keyed on a non-unique field silently overwrote 411 contracts; fixed by switching the primary key to the API's actual globally-unique identifier.
+- **IDIQ date skew** — grouping by the wrong date field pulled decades-old base contracts into a 2022–24 analysis; fixed with a derived `activity_year` column applied at the cleaning stage.
+- **Silent nested-field miss** — an award-detail pull reported 100% success while returning 100% null competition data; the fields lived three levels deeper in the response than the docs suggested. Same root cause resurfaced later on a FAR-justification field, caught the same way.
+- **Type-mismatch crash** — a numeric comparison crashed on a field the API returns as a string; fixed with a guarded cast that fails safe instead of crashing.
+- **Pagination + wrong base transaction** — fetching only page 1 of a paginated endpoint silently picked the wrong "base" transaction for any contract with 10+ modifications, producing a couple of genuinely impossible ratios before the real cause (newest-first pagination) was diagnosed and fixed.
+
+**Goals.** Ship something that demonstrates the full pipeline, not just the analysis: live API work, a real database, defensible statistics, and an interactive presentation layer — with the judgment calls (what to flag, what to scope, what to trust) made explicitly and documented, not left implicit.
+
+## AI use
+
+This project was built with AI assistance (Claude) as a tool, not a substitute for the decisions that mattered. I learned the fundamentals first, then intentionally took on a real, messy, production-shaped problem instead of a toy one — and brought AI assistance along the way anyone would reach for a debugger or a linter, not as something doing the thinking for me.
+
+Where it meshes: AI helped write and refactor code, draft documentation, and build the dashboard's visualizations. It did not make the calls that mattered. Every non-trivial decision above — what to scope in or out, which thresholds to trust or discard, the pull-once architecture, and the verify-by-running discipline — was mine, including on runs I didn't personally type. That discipline is specifically what caught the two hardest bugs in the Challenges list above: bugs that looked like success until someone insisted on checking the actual output.
+
+The claim here isn't "every line was hand-typed." It's that every decision that mattered was directed and verified by me — which is the actual skill this project is meant to demonstrate.
 
 ## The three signals
 
