@@ -35,7 +35,7 @@ I built Clearwater to work with a real, messy, production-shaped dataset — liv
 
 ## AI use
 
-This project was built with AI assistance (Claude) as a tool, not a substitute for the decisions that mattered. I learned the fundamentals first, then intentionally took on a real, messy, production-shaped problem instead of a toy one — and brought AI assistance along the way anyone would reach for a debugger or a linter, not as something doing the thinking for me.
+This project was built with AI assistance (Claude) as a tool, not a substitute for the decisions that mattered. I'd just finished CFI's Business Intelligence & Data Analyst (BIDA) certification — Python, SQL, regression, Power BI and Tableau — and wanted to apply it against something real instead of another guided course project. A live government API with genuinely messy, undocumented data was a bigger jump than anything in that coursework, and taking it on solo meant real time and knowledge constraints, so I brought AI assistance with me the way anyone would reach for a debugger or a linter — not as something doing the thinking for me.
 
 Where it meshes: AI helped write and refactor code, draft documentation, and build the dashboard's visualizations. It did not make the calls that mattered. Every non-trivial decision above — what to scope in or out, which thresholds to trust or discard, the pull-once architecture, and the verify-by-running discipline — was mine, including on runs I didn't personally type. That discipline is specifically what caught the two hardest bugs in the Challenges list above: bugs that looked like success until someone insisted on checking the actual output.
 
